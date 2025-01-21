@@ -1,0 +1,6 @@
+
+Fibonacci primes are all numbers in the Fibonacci sequence that are also prime. Some examples of this would be 3, 13, and 89. With the exception of the 4th number in the sequence, the index of every prime number in the Fibonacci sequence is prime. For example 89, which is the 5th number in the sequence. However, an index in the Fibonacci sequence being prime does not necessarily mean that the number associated with that index is itself prime. For example, the 37th number in the Fibonacci sequence. 37 being a prime number but its value, 24157817, being composite. As of 10 October 2024, 51 Fibonacci Primes have been discovered. The largest Fibonacci prime was found in September 2023 and is the 2344369th number in the Fibonacci sequence and which is 678033 digits long.
+
+https://mathworld.wolfram.com/FibonacciPrime.html
+https://www.geeksforgeeks.org/fibonacci-prime/
+
